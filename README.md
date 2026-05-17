@@ -8,7 +8,9 @@
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey?style=flat-square&logo=apple)](https://github.com/Tekmium-Solutions/hotlingo-macos-release/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](https://hotlingo.vn)
 
-<!-- Demo image will be added here -->
+<img src="demo-translation-panel.png" alt="HotLingo translation panel" width="520"/>
+
+<img src="demo-pdf-translation.png" alt="HotLingo translating Japanese PDF" width="520"/>
 
 [**Download**](https://github.com/Tekmium-Solutions/hotlingo-macos-release/releases/latest/download/HotLingo.dmg) · [Website](https://hotlingo.vn) · [Support](https://zalo.me/g/gibpdmqjnbpik2dpgb6s)
 

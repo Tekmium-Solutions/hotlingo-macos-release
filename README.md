@@ -60,6 +60,34 @@ HotLingo is a macOS menu bar app that lets you translate any selected text insta
 3. Launch HotLingo from Applications or Spotlight
 4. Grant Accessibility permission when prompted (required for text selection)
 
+## How to Use
+
+### 1. Translate Selected Text
+Select any text in any app → press the hotkey (default: `⌥ Option + T`) → the translation panel appears instantly.
+
+### 2. Type to Translate
+Click the HotLingo icon in the menu bar → open the translation panel → type or paste text → press `Enter` to translate.
+
+### 3. Screenshot OCR
+Press the screenshot hotkey (default: `⌥ Option + S`) → drag to select a screen area → HotLingo extracts and translates the text automatically.
+
+### 4. Switch Translation Provider
+Open **Settings → General** and choose your preferred provider:
+- **AI Translation** — high-accuracy, credit-based (sign in required)
+- **OpenAI GPT** — bring your own OpenAI API key
+- **Google Translate** — free, no account needed
+
+### 5. Add Context
+In the translation panel, click **Context** to add a note that helps the AI understand the domain (e.g. "This is a legal document" or "Casual conversation").
+
+### 6. Translation History
+Click **History** in the panel to browse and search all past translations.
+
+### 7. Change Target Language
+Use the language selector in the top-right corner of the panel to switch the output language on the fly.
+
+---
+
 ## Auto-Update
 
 HotLingo checks for updates automatically on launch. When a new version is available, you'll see a notification in the menu bar. Updates are installed in-place — no re-download needed.

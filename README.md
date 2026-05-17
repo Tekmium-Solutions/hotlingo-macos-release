@@ -8,18 +8,13 @@
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-lightgrey?style=flat-square&logo=apple)](https://github.com/Tekmium-Solutions/hotlingo-macos-release/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](https://hotlingo.vn)
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="demo-translation-panel.png" alt="Translation panel" width="100%"/>
-<sub>AI Translation Panel</sub>
-</td>
-<td align="center" width="50%">
-<img src="demo-pdf-translation.png" alt="Translating Japanese PDF" width="100%"/>
-<sub>Translate directly from any document</sub>
-</td>
-</tr>
-</table>
+<img src="demo-translation-panel.png" alt="AI Translation Panel" width="600"/>
+<br/><sub>AI Translation Panel</sub>
+
+<br/><br/>
+
+<img src="demo-pdf-translation.png" alt="Translating Japanese PDF" width="600"/>
+<br/><sub>Translate directly from any document</sub>
 
 [**⬇ Download for macOS**](https://github.com/Tekmium-Solutions/hotlingo-macos-release/releases/latest/download/HotLingo.dmg) · [Website](https://hotlingo.vn) · [Support](https://zalo.me/g/gibpdmqjnbpik2dpgb6s)
 

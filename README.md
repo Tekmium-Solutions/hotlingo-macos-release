@@ -16,6 +16,8 @@
 <img src="demo-pdf-translation.png" alt="Translating Japanese PDF" width="600"/>
 <br/><sub>Translate directly from any document</sub>
 
+<br/><br/><br/>
+
 [**⬇ Download for macOS**](https://github.com/Tekmium-Solutions/hotlingo-macos-release/releases/latest/download/HotLingo.dmg) · [Website](https://hotlingo.vn) · [Support](https://zalo.me/g/gibpdmqjnbpik2dpgb6s)
 
 </div>
